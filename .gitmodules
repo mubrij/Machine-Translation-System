@@ -1,0 +1,3 @@
+[submodule "server/text-generation"]
+	path = server/text-generation
+	url = https://github.com/huggingface/text-generation-inference
